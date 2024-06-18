@@ -24,6 +24,7 @@
 #include <QMessageBox>
 #include <iostream>
 #include "../include/op3_tuner_client/main_window.hpp"
+#include <QButtonGroup>
 
 /*****************************************************************************
  ** Namespaces

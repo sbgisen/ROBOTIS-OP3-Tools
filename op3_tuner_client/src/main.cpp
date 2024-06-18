@@ -24,6 +24,7 @@
 #include <QtGui>
 #include <QApplication>
 #include "../include/op3_tuner_client/main_window.hpp"
+#include <QButtonGroup>
 
 /*****************************************************************************
 ** Main
